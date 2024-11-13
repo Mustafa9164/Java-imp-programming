@@ -1,2 +1,2 @@
 # Java-imp-programming
-Yhis file contains Java 8 featues interview questions
+This file contains Java 8 featues interview questions
